@@ -1,1 +1,4 @@
 my list
+What should I do?
+1. Fix conflicts
+2. Commit changes
